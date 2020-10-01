@@ -17,4 +17,4 @@ docker-compose up
 
 ## Document
 
-https://docs.alfresco.com/process-services1.10/topics/getting-started.html
+- https://docs.alfresco.com/process-services1.10/topics/getting-started.html
